@@ -1,0 +1,9 @@
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\bin\Debug\netcoreapp1.0\Functional_CSharp.deps.json
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\bin\Debug\netcoreapp1.0\Functional_CSharp.runtimeconfig.json
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\bin\Debug\netcoreapp1.0\Functional_CSharp.runtimeconfig.dev.json
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\bin\Debug\netcoreapp1.0\Functional_CSharp.dll
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\bin\Debug\netcoreapp1.0\Functional_CSharp.pdb
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\obj\Debug\netcoreapp1.0\Functional_CSharp.csprojResolveAssemblyReference.cache
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\obj\Debug\netcoreapp1.0\Functional_CSharp.AssemblyInfo.cs
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\obj\Debug\netcoreapp1.0\Functional_CSharp.dll
+c:\users\binto\onedrive\documents\visual studio 2017\Projects\Functional_CSharp\Functional_CSharp\obj\Debug\netcoreapp1.0\Functional_CSharp.pdb
